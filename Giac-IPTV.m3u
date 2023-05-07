@@ -867,6 +867,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="News",NBCLX News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbclx_001.m3u8
+#EXTINF:-1 group-title="News",CNBC
+https://ancom.ga/fpt/cnbc/bitrate_2500.m3u8
 #EXTINF:-1 group-title="News",CoinDesk TV
 https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951208&ads.csid=xumo_desktopweb_CoinDesk_ssai&ads._fw_app_bundle=&ads._fw_did=415862ac-67d6-3c95-e6f4-065f6630cb35&ads._fw_is_lat=1&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_app_store_url=&ads._fw_content_category=IAB12&ads.xumo_contentName=CoinDesk&ads.xumo_providerName=CoinDesk&ads._fw_content_language=en&ads.assetId=XMYZLD3CAWDN09&ads._fw_content_genre=News&ads.xumo_providerId=3851&ads._fw_content_rating=TV-PG&ads.platform=desktopweb&ads.xumo_channelId=99951208
 
