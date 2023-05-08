@@ -386,3 +386,5 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 https://live.sonlatv.vn/sltvlive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Tuyên Quang
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Thái Bình
+https://live.thaibinhtv.vn/tbtvlive/tv1live/tv1live_manifest.m3u8?vhost=__defaultVhost__
