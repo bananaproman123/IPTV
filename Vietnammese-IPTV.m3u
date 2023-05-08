@@ -388,3 +388,54 @@ https://live.sonlatv.vn/sltvlive/tv1live-transmux.m3u8
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Thái Bình
 https://live.thaibinhtv.vn/tbtvlive/tv1live/tv1live_manifest.m3u8?vhost=__defaultVhost__
+#EXTINF:-1 group-title="VN Địa Phương",Cà Mau
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Ninh Thuận
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Quảng Ngãi
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+
+http://118.107.85.5:1935/live/smil:PTQ.smil/chunklist_w453253112_b1384000.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Quảng Nam
+https://ppp.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Phú Yên
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Ninh Bình
+https://lms-public-ingest.swiftfederation.com/nbtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Lào Cai
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Lạng Sơn
+http://live.langsontv.vn/lstvlive/tv1live.m3u8
+
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="VN Địa Phương",Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Phú Thọ
+http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Đắk Lắk
+https://live.drt.vn/drtlive/tv1live-transmux.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Đắk Nông
+https://16371213858134.vnns.net/daknong_abr/playlist.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Điện Biên
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+#EXTINF:-1 group-title="VN Địa Phương",Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Bắc Kạn
+http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+#EXTINF:-1 group-title="VN Địa Phương",Hà Giang
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+#EXTINF:-1 group-title="VN Địa Phương",Yên Bái
+https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Hưng Yên
+https://live.hungyentv.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 group-title="VN Địa Phương",Hi TV-HanoiCab 1
+https:///e2.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="VN Địa Phương", Bình Dương 4
+https://e3.endpoint.cdn.sctvonline.vn/hls/btv4/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="VN Địa Phương",Bến Tre
+https://e3.endpoint.cdn.sctvonline.vn/hls/thbentre/index.m3u8|Referer=http://sctvonline.vn/
