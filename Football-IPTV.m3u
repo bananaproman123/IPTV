@@ -1,83 +1,305 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Tiengruoi HD1
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 1 1080p
+https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 1 720p
 https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
 
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Nện
-https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Già
-https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
-
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Tiengruoi HD4
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 2 1080p
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 2 720p
 https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Tiengruoi HD5
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 3 1080p
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 3 720p
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+
+
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh 2k
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may68/playlist.m3u8|Referer=https://tructiep6.vebo3.org/truc-tiep/
+
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh
+
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Kênh
+
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Nện 1080p
+https://obevcimanyd179314182.thapcam.link/live/nenFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Nện 720p
+https://1123139281.cdn.khmer-hd.com/nenHD/playlist.m3u8
+
+
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Già 1080p
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Người Già 720p
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+
 
 #EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Tiengruoi HD
 
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bánh Cuốn
-https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
-
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bánh Cuốn 1080p
 https://obevcimanyd179314182.thapcam.link/live/cuonFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bánh Cuốn 720p
+https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
 
 https://obevcimanyd179314182.thapcam.link/live/may4/playlist.m3u8
 
 
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bún Chả 1
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bún Chả 1080p
+https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Bún Chả 720p
 https://1123139281.cdn.khmer-hd.com/chaHD/playlist.m3u8
 
-https://obevcimanyd179314182.thapcam.link/live/chaFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Phở Bò 1
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Phở Bò 1080p
+https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Phở Bò 720p
 https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 
-https://obevcimanyd179314182.thapcam.link/live/phoFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Mỳ Tôm 1
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Mỳ Tôm 1080p
+https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Mỳ Tôm 720p
 https://1123139281.cdn.khmer-hd.com/myHD/playlist.m3u8
 
-https://obevcimanyd179314182.thapcam.link/live/myFHD/playlist.m3u8
-
-#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Trâu Gác Bếp
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Trâu Gác Bếp 1080p
+https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
+#EXTINF:-1 group-title="bit.ly/tiengruoi" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",BLV Trâu Gác Bếp 720p
 https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8
 
 
-https://obevcimanyd179314182.thapcam.link/live/trauFHD/playlist.m3u8
 
 
-#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",CakhiaTV A Phọt HD1
-https://playback2.akamaized.net/streams/27740027_9163789_lsie96fr5htcmc340dy_1/master.m3u8?dw=80&hdnts=exp=1683426446~acl=/streams/27740027_9163789_lsie96fr5htcmc340dy_1/master.m3u8*~hmac=414d2073aa744d709edb6f491a1ac556fa8b14ed376dd311de48ddab48fa70ed
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Sports 1
+https://1123139281.cdn.khmer-hd.com/may0HD/playlist.m3u8
 
-https://player-api.new.livestream.com/accounts/27740027/events/9163789/broadcasts/236113971.secure.m3u8?dw=80&hdnea=st=1683422659~exp=1683424459~acl=/i/27740027_9163789_lsie96fr5htcmc340dy_1@688039/*~hmac=2c967e405c9
+https://obevcimanyd179314182.thapcam.link/live/may0FHD/playlist.m3u8
 
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 2
+https://obevcimanyd179314182.thapcam.link/live/may101/playlist.m3u8
 
-https://179665839.global.cdnfastest.com/live/phothd2/playlist.m3u8
-#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",CakhiaTV 2
-https://playback2.akamaized.net/streams/27740027_8382526_lsigk5pumo1v2o0cpem_1/master.m3u8?dw=80&hdnts=exp=1683427064~acl=/streams/27740027_8382526_lsigk5pumo1v2o0cpem_1/master.m3u8*~hmac=e843b474174f09e5dc6b5129a3199ceb129ff29a5b7ab77b90dc4b35ab2ab275
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 3
+https://obevcimanyd179314182.thapcam.link/live/may9/playlist.m3u8
 
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 4
+https://obevcimanyd179314182.thapcam.link/live/may15/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 5
+https://obevcimanyd179314182.thapcam.link/live/may91/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 6
+https://obevcimanyd179314182.thapcam.link/live/may10/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 7
+https://obevcimanyd179314182.thapcam.link/live/may11/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 8
+https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 9
+https://obevcimanyd179314182.thapcam.link/live/may121/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 10
+https://179796602skbndctsetsaf.thapcam.link/live/may91/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports 11
+https://obevcimanyd179314182.thapcam.link/live/may41/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg", Sports
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://static.vebotv.app/images/1.jpg", Basketball 1
+https://1123139281.cdn.khmer-hd.com/buHD/playlist.m3u8
+
+https://179796602skbndctsetsaf.thapcam.link/live/buFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://static.vebotv.app/images/1.jpg", Basketball 2
+https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8
+
+https://179796602skbndctsetsaf.thapcam.link/live/may1FHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://static.vebotv.app/images/1.jpg", Basketball 3
+https://1123139281.cdn.khmer-hd.com/oldHD/playlist.m3u8
+
+https://179796602skbndctsetsaf.thapcam.link/live/oldFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://static.vebotv.app/images/1.jpg", Basketball 4
+https://1123139281.cdn.khmer-hd.com/zachHD/playlist.m3u8
+
+https://179796602skbndctsetsaf.thapcam.link/live/zachFHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://tenten.vn/tin-tuc/wp-content/uploads/2022/09/xem-bong-da-truc-tuyen-10-1024x1024.jpeg",Basketball 5
+https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", NBA
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",Basketball KING 5
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",Basket BRIANN 6
+https://sports01.livnvess.com/live/stream-122591_lhd.m3u8
+
+#EXTINF:-1 group-title="CaheoTV" tvg-logo="https://media.shopdongho.com/2022/11/caheo_tv.png",BLV Thợ Xây
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CaheoTV" tvg-logo="https://media.shopdongho.com/2022/11/caheo_tv.png",BLV Cá Bịp
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CaheoTV" tvg-logo="https://media.shopdongho.com/2022/11/caheo_tv.png",BLV Cá Heo
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CaheoTV" tvg-logo="https://media.shopdongho.com/2022/11/caheo_tv.png",BLV Xi Măng
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@ximanghd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CaheoTV" tvg-logo="https://media.shopdongho.com/2022/11/caheo_tv.png",BLV H+
 https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
-#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",CakhiaTV 3
-https://playback2.akamaized.net/streams/27740027_8840647_lsiw5zdba5rynm37422_1/master.m3u8?dw=80&hdnts=exp=1683427150~acl=/streams/27740027_8840647_lsiw5zdba5rynm37422_1/master.m3u8*~hmac=177f7d8cac33522eab922452cb7ab73df67e92a229d9c5b5e6bdfa3e0e9ae747
 
-https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@x3y3-0458/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
-#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",CakhiaTV A Cay HD1
-https://playback2.akamaized.net/streams/27136431_8142772_lsiobmnpgm2z25p9qwj_1/master.m3u8?dw=80&hdnts=exp=1683427291~acl=/streams/27136431_8142772_lsiobmnpgm2z25p9qwj_1/master.m3u8*~hmac=0bc3da3ad0b343137412ac73491c5c0631cb95c982e380e9048b4efa6dd6ba3d
 
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
-#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",CakhiaTV A Chuối HD1
-https://playback2.akamaized.net/streams/27740027_9726625_lsin878rx2nra9j39oq_1/master.m3u8?dw=80&hdnts=exp=1683427367~acl=/streams/27740027_9726625_lsin878rx2nra9j39oq_1/master.m3u8*~hmac=57fffc41e04462898d3fdf8c5a1e3ac5787af8641b836a83713966ac3a70ce9a
-
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Phò
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Lử
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd111/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Phọt
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Páo
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Cay
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
+#EXTINF:-1 group-title="CakhiaTV" tvg-logo="https://tylemacao.net/wp-content/uploads/2022/08/cakhiatv-logo.png",BLV Giàng A Chuối
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|Referer=https://tructiep7.rakhoi7.com/
 
-https://playback2.akamaized.net/streams/27740027_8840713_lsippgqy72y5g6dlsz5_1/master.m3u8?dw=80&hdnts=exp=1683427452~acl=/streams/27740027_8840713_lsippgqy72y5g6dlsz5_1/master.m3u8*~hmac=dfe112233006e577ca12e21f415176df374cf0b580808bb9957989d2398826da
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 1
+https://309557389.global.cdnfastest.com/live/blv10/playlist.m3u8
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 2
+https://309557389.global.cdnfastest.com/live/blv9/playlist.m3u8
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 3
+https://309557389.global.cdnfastest.com/live/blv1/playlist.m3u8
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 4
+https://309557389.global.cdnfastest.com/live/blv3/playlist.m3u8
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 5
+https://309557389.global.cdnfastest.com/live/blv8/playlist.m3u8
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 6
+https://309557389.global.cdnfastest.com/live/blv5/playlist.m3u8
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 7
+https://309557389.global.cdnfastest.com/live/blv4/playlist.m3u8
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 8
+https://309557389.global.cdnfastest.com/live/blv6/playlist.m3u8
+
+#EXTINF:-1 group-title="LatkeoTV" tvg-logo="https://xsmn.info/wp-content/uploads/2023/01/tt1.jpg",Kênh 9
+https://309557389.global.cdnfastest.com/live/blvv1/playlist.m3u8
 
 
-https://playback2.akamaized.net/streams/27740027_8851701_lsi5crgph16cymm1pz0_1/master.m3u8?dw=80&hdnts=exp=1683427522~acl=/streams/27740027_8851701_lsi5crgph16cymm1pz0_1/master.m3u8*~hmac=4bff33938e8405b5c9b471ceccf07d0b9ffa64598eb3dca288583da985737262
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV AK47
+https://sports01.livnvess.com/live/stream-120778_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV DIHI
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV SONBAEMIN
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV PHILL
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV IRiS
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV BRUCE
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV POPPY
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV KAIDO
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV RID
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV LIAN
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV SAITAMA
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV LOGAN
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV HOPE
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Phi Hành
+https://sports01.livnvess.com/live/stream-208390_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV LEO
+https://sports01.livnvess.com/live/stream-991119_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV PUKA
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV SINGER
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Không Ngủ
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV TONY
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV TIGER
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV FANTA
+https://sports01.livnvess.com/live/stream-991106_lhd.m3u8
+
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV SHOGUN
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Củ Cải
+https://sports01.livnvess.com/live/stream-360663_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV TAP
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Củ Chuối
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV NONAME
+https://sports01.livnvess.com/live/stream-991125_lhd.m3u8
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV RICKHANTER
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Sùng A Múp
+https://sports01.livnvess.com/live/stream-991103_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV CÁ
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV Tam Mao
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV DECO
+https://sports01.livnvess.com/live/stream-991123_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV A Phạch
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV G HÍP
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV TAM MAO
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png",BLV MONKEY
+https://sports01.livnvess.com/live/stream-105723_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV SUNNY
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV LUCY
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8
+
+#EXTINF:-1 group-title="bit.ly/socolive" tvg-logo="https://socolive.news/wp-content/uploads/2022/09/LOGO-BITLY_bg-1024x273.png", BLV YUKI
+https://sports01.livnvess.com/live/stream-101511_lhd.m3u8
+
+
