@@ -183,6 +183,8 @@ https://vtsstr7.tv24.vn/live/VTVcab2.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN Nổi Bật",VTVCab9-On Info TV
 https://vtsstr7.tv24.vn/live/VTVcab9.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN Nổi Bật",VTC1
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VN Nổi Bật",VTC5
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtc5/sd2/index.m3u8|Referer=http://sctvonline.vn/
