@@ -6,8 +6,6 @@ https://d22pt70a93d2pj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Hải Ngoại" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg",TVB Anywhere Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
-http://vnoo.net/link/rX6Cri7
-
 #EXTINF:-1 group-title="Hải Ngoại" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Little_Saigon_TV_logo.svg/254px-Little_Saigon_TV_logo.svg.png", Little Saigon TV
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 #EXTINF:-1 group-title="Hải Ngoại" tvg-logo="https://setchannel.tv/wp-content/uploads/2019/08/SET-web-logo.png",SET TV
@@ -55,11 +53,7 @@ https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VN Nổi Bật",Vnews-TTXVN
-https://16371213858134.vnns.net:443/ttxvn_abr/vtc130121/ttxvn-720p/chunks.m3u8
-
-https://16371213858134.vnns.net/ttxvn_abr/playlist.m3u8
-
-https://e2.endpoint.cdn.sctvonline.vn/hls/ttxvn/index.m3u8|Referer=http://sctvonline.vn/
+https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
 
 #EXTINF:-1 group-title="VN Nổi Bật",Vĩnh Long 1
 http://live-ali2.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
@@ -98,96 +92,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonl
 #EXTINF:-1 group-title="VN Nổi Bật",TV360 Miền Tây
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV1
-https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
 
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV1.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV4 Giải trí tổng
-https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV4.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV7-Sân Khấu
-https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV7.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV8-VITV
-https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV8.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV9
-https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV9.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV11
-https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV11.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV11.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV12-Du Lịch
-https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV12.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV13-Lady
-https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV13.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV14- Kênh Phim Việt
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV15
-https://vtsstr4.tv24.vn/live/SCTV_HD_TheThao_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV16-Phim nước ngoài
-https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV1.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV17
-https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV18
-https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV18.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV19-T Channel
-https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV19.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV20
-https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV20.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV22
-https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV22.smil/playlist.m3u8|Referer=https://sctvonline.vn/
-
-
-#EXTINF:-1 group-title="VN Nổi Bật",SCTV Phim Tổmg Hợp
-https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTVPTH.smil/playlist.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 group-title="VN Nổi Bật",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
