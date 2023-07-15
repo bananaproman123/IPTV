@@ -334,10 +334,10 @@ http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Hưng Yên
 https://live.hungyentv.vn/hytvlive/tv1live.m3u8
-#EXTINF:-1 group-title="VN Địa Phương",Hi TV-HanoiCab 1
-https:///e8.endpoint.cdn.sctvonline.vn/hls/antg/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="VN Địa Phương", Bình Dương 4
-https://e8.endpoint.cdn.sctvonline.vn/hls/btv4/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="VN Địa Phương", Bình Dương 1
+https://e3.endpoint.cdn.sctvonline.vn/hls/btv1/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="VN Địa Phương", Bình Dương 2
+https://e3.endpoint.cdn.sctvonline.vn/hls/btv2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VN Địa Phương",Bến Tre
 https://e8.endpoint.cdn.sctvonline.vn/hls/thbt/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VN Địa Phương", Vĩnh Phúc 
