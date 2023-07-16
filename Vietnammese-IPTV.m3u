@@ -221,7 +221,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Cần Thơ
-https://tv.tchgroup.vn/live/tv_web/playlist.m3u8
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Tiền Giang
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
 
