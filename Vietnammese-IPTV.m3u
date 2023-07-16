@@ -249,7 +249,7 @@ https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/playlist.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Hải Phòng
 https://on.thhp.vn/thplive/tv1live-transmux.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Hải Phòng Plus
-https://on.thhp.vn/thplive/tv1live-transmux.m3u8
+https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="VN Địa Phương",Hà Nam
