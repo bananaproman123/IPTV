@@ -78,8 +78,6 @@ http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VN Nổi Bật",Quốc Hội TV
-https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
-
 https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonline.vn/
 
 
