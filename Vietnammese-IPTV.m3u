@@ -58,19 +58,11 @@ https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/vnews/playlist.m3u8
 
 #EXTINF:-1 group-title="VN Nổi Bật",Vĩnh Long 1
-http://live-ali2.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
-
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VN Nổi Bật",Vĩnh Long 2
-http://live-ali2.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
-
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 group-title="VN Nổi Bật",Vĩnh Long 3
-http://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",Vĩnh Long 4
-http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 #EXTINF:-1 group-title="VN Nổi Bật",VOV TV-Du Lịch
 https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8?
 #EXTINF:-1 group-title="VN Nổi Bật",An Ninh TV
@@ -86,7 +78,7 @@ http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 https://e2.endpoint.cdn.sctvonline.vn/hls/qpvn/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="VN Nổi Bật",Quốc Hội TV
-https://media.quochoitv.vn/live/qhtv_720p/index.m3u8
+https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 
 https://e2.endpoint.cdn.sctvonline.vn/hls/qhvn/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -107,24 +99,10 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonl
 #EXTINF:-1 group-title="VN Nổi Bật",HTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VN Nổi Bật",HTV Thể Thao
-https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
-
 https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Thuần Việt
-http://live-ali4.tv360.vn/manifest/HTVC_Thuan_Viet/playlist_480p1p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Gia Đình
-http://live-zlr1.tv360.vn/manifest/HTVC_Gia_Dinh/playlist_480p1p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Phụ Nữ
-http://live-zlr1.tv360.vn/manifest/HTVC_Phu_Nu/playlist_480p1p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Du Lịch Và Cuộc Sống
-http://live.tv360.vn/manifest/HTVC_Du_Lich/playlist_480p1p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Plus
-http://live.tv360.vn/manifest/HTVC_Channel_B_SPR/playlist_480p1p.m3u8
-#EXTINF:-1 group-title="VN Nổi Bật",HTVC Ca Nhạc
-http://live-ali2.tv360.vn/manifest/HTVC_Ca_Nhac/playlist_480p1p.m3u8
 #EXTINF:-1 group-title="VN Nổi Bật",VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
@@ -143,8 +121,6 @@ http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 http://103.56.160.133:8081/vtv2
 
 #EXTINF:-1 group-title="VN Nổi Bật",VTV3
-http://live-zlr1.tv360.vn/manifest/VTV3/playlist_720p.m3u8
-
 http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
 
 
@@ -154,8 +130,6 @@ https://59d39900ebfb8.streamlock.net/8546/8546/playlist.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn
 
 #EXTINF:-1 group-title="VN Nổi Bật",VTV5
-http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
-
 http://live-zlr1.tv360.vn/manifest/VTV5_HD/playlist_1080-3_6M.m3u8
 
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
@@ -163,8 +137,6 @@ https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-6
 http://103.56.160.133:8081/vtv5
 
 #EXTINF:-1 group-title="VN Nổi Bật",VTV6 Cần Thơ
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p3M.m3u8
 
 https://iptvvn.xyz/vtv6.tv.laonongdan.m3u8
